@@ -8,9 +8,9 @@ Tecnologias do projeto:<br>
 <img src="imagens/JDBC%20java.png" width=55 height=35>
 
 <h2>Pré-Requisitos</h2>
-* JDK: Versão 11 ou superior instalada.
-* Banco de Dados: Servidor MySQL rodando.
-* Driver: O projeto requer o driver JDBC do MySQL 
+* JDK: Versão 11 ou superior instalada.<br>
+* Banco de Dados: Servidor MySQL rodando.<br>
+* Driver: O projeto requer o driver JDBC do MySQL<br> 
 
 
 Script SQL para criar o banco de dados
