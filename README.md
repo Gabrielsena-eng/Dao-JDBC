@@ -39,7 +39,7 @@ CREATE TABLE seller (
 Clone o repositório.
 
 * Execute o script SQL acima no MySQL.
-* onfigure a dependência do driver JDBC,
+* Configure a dependência do driver JDBC,
 
 * Ajuste os parâmetros de conexão no código-fonte para refletir seu usuário e senha.
 * Execute a classe principal do projeto.
